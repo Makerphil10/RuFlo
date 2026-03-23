@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -fsSL https://cdn.jsdelivr.net/gh/ruvnet/claude-flow@main/scripts/install.sh)",
+      "Bash(bash)",
+      "Bash(npx ruflo@latest init --wizard)",
+      "Bash(npx ruflo@latest doctor)",
+      "Bash(git init:*)",
+      "Bash(npx ruflo@latest daemon start)",
+      "Bash(git add:*)"
+    ]
+  }
+}
