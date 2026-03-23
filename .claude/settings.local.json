@@ -7,7 +7,8 @@
       "Bash(npx ruflo@latest doctor)",
       "Bash(git init:*)",
       "Bash(npx ruflo@latest daemon start)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
     ]
   }
 }
